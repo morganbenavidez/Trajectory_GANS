@@ -52,6 +52,12 @@ To begin training, run the file: train_all.py. In this file you can set which mo
 
 Make sure that your system matches the specified Python version (3.11.6) for compatibility. The instructions assume that you have Git, Python, and virtualenv installed on your machine. It also assumes that you have a NVIDIA GPU.
 
+The data that is being used is in the form: frame_number, pedestrian_number, y_coordinates, x_coordinates
+
+You can train your own data using these models, just put your data in this format and name your file as one of the datasets.
+
+Place your data in the proper places in the file structure for the models to read them, and make sure to set the file name in train_all.py. You can choose: eth, hotel, zara1, zara2 or univ.
+
 # This repository borrows directly from or uses updated versions of the following projects:
 [GATraj](https://github.com/mengmengliu1998/GATraj) <br>
 [sgan](https://github.com/agrimgupta92/sgan) <br>
