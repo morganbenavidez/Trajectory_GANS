@@ -50,7 +50,7 @@ To begin training, run the file: train_all.py. In this file you can set which mo
 
 ## Note
 
-Make sure that your system matches the specified Python version (3.11.6) for compatibility. The instructions assume that you have Git, Python, and virtualenv installed on your machine. It also assumes that you have a NVIDIA GPU.
+Make sure that your system matches the specified Python version (3.11.6) for compatibility. The instructions assume that you have Git, Python, and virtualenv installed on your machine. It also assumes that you have a NVIDIA or CUDA enabled GPU.
 
 The data that is being used is in the form: frame_number, pedestrian_number, y_coordinates, x_coordinates
 
