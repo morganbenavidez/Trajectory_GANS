@@ -54,11 +54,11 @@ Make sure that your system matches the specified Python version (3.11.6) for com
 
 # GATraj
 
-This repository is an updated version of the project [STAR](https://github.com/mengmengliu1998/GATraj).
+This repository is an updated version of the project [GATraj](https://github.com/mengmengliu1998/GATraj).
 
 # SocialGAN2
 
-This repository is an updated version of the project [STAR](https://github.com/cunjunyu/STAR).
+This repository is an updated version of the project [sgan](https://github.com/agrimgupta92/sgan).
 
 # Social-STGCNN
 
