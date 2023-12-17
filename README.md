@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains code for a Trajectory Generative Adversarial Network (Trajectory GAN) implemented in Python. The project is designed to run on Manjaro Linux with Python version 3.11.6. It should work on other Linux distributions as long as the Python version matches.
+This repository contains code for comparing six different Trajectory Generative Adversarial Networks (Trajectory GANs) implemented in Python. The project is designed to run on Manjaro Linux with Python version 3.11.6 and Git installed. It should work on other Linux distributions as long as the Python version matches. 
 
 ## Installation
 
@@ -10,9 +10,9 @@ Follow the steps below to set up the project on your machine:
 
 1. Open the terminal.
 
-2. Navigate to your preferred directory (e.g., `Downloads`):
+2. Navigate to your Desktop directory (The code is written to train these models from Desktop -> This can be altered in the train_all.py file if necessary):
     ```bash
-    cd Downloads
+    cd Desktop
     ```
 
 3. Clone the repository:
