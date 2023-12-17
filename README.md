@@ -52,4 +52,26 @@ To begin training, run the file: train_all.py. In this file you can set which mo
 
 Make sure that your system matches the specified Python version (3.11.6) for compatibility. The instructions assume that you have Git, Python, and virtualenv installed on your machine. It also assumes that you have a NVIDIA GPU.
 
+# GATraj
 
+This repository is an updated version of the project [STAR](https://github.com/mengmengliu1998/GATraj).
+
+# SocialGAN2
+
+This repository is an updated version of the project [STAR](https://github.com/cunjunyu/STAR).
+
+# Social-STGCNN
+
+This repository is an updated version of the project [STAR](https://github.com/cunjunyu/STAR).
+
+# SocialLSTM
+
+This repository is an updated version of the project [STAR](https://github.com/cunjunyu/STAR).
+
+# STAR
+
+This repository is an updated version of the project [STAR](https://github.com/cunjunyu/STAR).
+
+# STGAT
+
+This repository is an updated version of the project [STAR](https://github.com/cunjunyu/STAR).
